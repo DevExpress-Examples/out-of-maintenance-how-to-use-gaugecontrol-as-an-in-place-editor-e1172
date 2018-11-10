@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -32,15 +32,16 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="DevExpress.Data.v12.1" />
-    <Reference Include="DevExpress.Utils.v12.1" />
-    <Reference Include="DevExpress.Printing.v12.1.Core" />
-    <Reference Include="DevExpress.XtraEditors.v12.1" />
-    <Reference Include="DevExpress.XtraGauges.v12.1.Core" />
-    <Reference Include="DevExpress.XtraGauges.v12.1.Presets" />
-    <Reference Include="DevExpress.XtraGauges.v12.1.Win" />
-    <Reference Include="DevExpress.XtraGrid.v12.1" />
-    <Reference Include="DevExpress.XtraLayout.v12.1" />
+    <Reference Include="DevExpress.Data.v13.1" />
+    <Reference Include="DevExpress.Utils.v13.1" />
+    <Reference Include="DevExpress.Printing.v13.1.Core" />
+    <Reference Include="DevExpress.XtraEditors.v13.1" />
+    <Reference Include="DevExpress.XtraGauges.v13.1.Core" />
+    <Reference Include="DevExpress.XtraGauges.v13.1.Presets" />
+    <Reference Include="DevExpress.XtraGauges.v13.1.Win" />
+    <Reference Include="DevExpress.XtraPrinting.v13.1" />
+    <Reference Include="DevExpress.XtraGrid.v13.1" />
+    <Reference Include="DevExpress.XtraLayout.v13.1" />
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Deployment" />
